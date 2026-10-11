@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "pydantic",
+  "repo": "ollama-action",
+  "versions": [
+    {
+      "commit": "46b8bf0ffbd125a5f7465b37d9e4a6103729e388",
+      "parsed_at": "2026-10-11T20:56:27.600800+00:00",
+      "tag": "v3",
+      "filetree": "filetree/46b8bf0ffbd125a5f7465b37d9e4a6103729e388.nq.gz",
+      "blobs": [
+        "blob/4df079cb4a2f14937412b9f4cd37fb71f96d49b4.nq.gz",
+        "blob/f7eecaf942a8e095a55b64d9895c32f3b3180167.nq.gz",
+        "blob/2ccbe4656c6078ded72491cf2ee9c5ec20219624.nq.gz",
+        "blob/23536fc3564d773f925f1952d715d2196d683203.nq.gz",
+        "blob/4813963251ec03a79ef805d0a7397086f9a4204c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
