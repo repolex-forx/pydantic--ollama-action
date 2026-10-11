@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "ollama-action",
+  "versions": [
+    {
+      "commit": "46b8bf0ffbd125a5f7465b37d9e4a6103729e388",
+      "tag": "v3",
+      "parsed_at": "2026-10-11T20:58:45.573459+00:00"
+    }
+  ]
+}
