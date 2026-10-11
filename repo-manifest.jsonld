@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pydantic/ollama-action/commit/46b8bf0ffbd125a5f7465b37d9e4a6103729e388",
       "git:hexsha": "46b8bf0ffbd125a5f7465b37d9e4a6103729e388",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v3"
     },
     {
